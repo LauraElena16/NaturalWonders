@@ -1,0 +1,1719 @@
+# Translation of Themes - Inspiro in Romanian
+# This file is distributed under the same license as the Themes - Inspiro package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-09-13 10:21:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n == 0 || n % 100 >= 2 && n % 100 <= 19) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: ro\n"
+"Project-Id-Version: Themes - Inspiro\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Inspiro"
+msgstr "Inspiro"
+
+#: inc/customizer/configs/header/class-inspiro-header-area-config.php:148
+msgid "Fullscreen"
+msgstr "Ecran întreg"
+
+#: inc/customizer/configs/header/class-inspiro-header-area-config.php:147
+msgid "Fixed height"
+msgstr "Înălțime fixă"
+
+#: inc/customizer/configs/header/class-inspiro-header-area-config.php:143
+msgid "Featured Image Height in Posts and Pages"
+msgstr "Înălțime imagine reprezentativă în articole și pagini"
+
+#: inc/customizer/configs/colors/class-inspiro-header-button-color-config.php:226
+msgid "👉 Unlock all customizations"
+msgstr "👉 Deblochează toate personalizările"
+
+#: inc/customizer/configs/colors/class-inspiro-header-button-color-config.php:214
+msgid "Text Color"
+msgstr "Culoare text"
+
+#: inc/customizer/configs/colors/class-inspiro-header-button-color-config.php:205
+msgid "Footer Background"
+msgstr "Fundal subsol"
+
+#: inc/customizer/configs/colors/class-inspiro-header-button-color-config.php:187
+msgid "Menu Background on Scroll"
+msgstr "Fundal meniu la derulare"
+
+#: inc/customizer/configs/colors/class-inspiro-header-button-color-config.php:178
+msgid "Menu Background"
+msgstr "Fundal meniu"
+
+#: inc/customizer/configs/colors/class-inspiro-header-button-color-config.php:168
+msgid "Top Menu"
+msgstr "Meniul de sus"
+
+#: inc/customizer/configs/colors/class-inspiro-header-button-color-config.php:32
+msgid "Colors"
+msgstr "Culori"
+
+#: inc/customizer/configs/header/class-inspiro-header-area-config.php:186
+msgid "Show search icon and search form in the header"
+msgstr "Arată iconul de căutare și formularul de căutare în antet"
+
+#: inc/customizer/configs/header/class-inspiro-header-area-config.php:165
+msgid "Elements"
+msgstr "Elemente"
+
+#: inc/customizer/configs/header/class-inspiro-header-area-config.php:127
+msgid "Full-width"
+msgstr "Lățime completă"
+
+#: inc/customizer/configs/header/class-inspiro-header-area-config.php:126
+msgid "Narrow"
+msgstr "Îngust"
+
+#: inc/customizer/configs/header/class-inspiro-header-area-config.php:122
+msgid "Header Menu Width"
+msgstr "Lățime meniu în antet"
+
+#: inc/customizer/configs/header/class-inspiro-header-area-config.php:99
+msgid "Left menu with Logo Center"
+msgstr "Meniu în stânga cu logo la centru"
+
+#: inc/customizer/configs/header/class-inspiro-header-area-config.php:103
+msgid "Center menu with Logo Center"
+msgstr "Meniu la mijloc cu logo la centru"
+
+#: inc/customizer/configs/header/class-inspiro-header-area-config.php:74
+msgid "Hidden menu"
+msgstr "Meniu ascuns"
+
+#: inc/customizer/configs/header/class-inspiro-header-area-config.php:70
+msgid "Menu on center"
+msgstr "Meniu la mijloc"
+
+#: inc/customizer/configs/header/class-inspiro-header-area-config.php:66
+msgid "Menu on left side"
+msgstr "Meniu în partea stângă"
+
+#: inc/customizer/configs/header/class-inspiro-header-area-config.php:62
+msgid "Default Style"
+msgstr "Stil implicit"
+
+#: inc/customizer/configs/header/class-inspiro-header-area-config.php:57
+msgid "Header Layout"
+msgstr "Aranjament în antet"
+
+#: inc/customizer/configs/header/class-inspiro-header-area-config.php:40
+msgid "Header"
+msgstr "Antet"
+
+#: inc/customizer/configs/footer/class-inspiro-footer-widget-areas-config.php:103
+#: inc/customizer/configs/footer/class-inspiro-footer-widget-areas-config.php:107
+#: inc/customizer/configs/footer/class-inspiro-footer-widget-areas-config.php:111
+#: inc/customizer/configs/footer/class-inspiro-footer-widget-areas-config.php:115
+msgid "Footer Pro"
+msgstr "Subsol Pro"
+
+#: inc/customizer/configs/footer/class-inspiro-footer-widget-areas-config.php:99
+#: inc/customizer/configs/header/class-inspiro-header-area-config.php:95
+msgid "PRO"
+msgstr "PRO"
+
+#: inc/customizer/configs/footer/class-inspiro-footer-widget-areas-config.php:58
+msgid "Footer Layout"
+msgstr "Aranjament în subsol"
+
+#: inc/theme-info-page.php:164
+msgid "Subscribe for Tips & Tricks"
+msgstr "Abonează-te la sfaturi și trucuri"
+
+#: inc/common-functions.php:568 inc/common-functions.php:705
+#: inc/common-functions.php:772 inc/starter-content.php:235
+msgid "\"Best Film\""
+msgstr "„Cel mai bun film”"
+
+#: inc/common-functions.php:491
+msgid "About Us"
+msgstr "Despre noi"
+
+#: inc/common-functions.php:568 inc/common-functions.php:586
+#: inc/common-functions.php:604 inc/common-functions.php:705
+#: inc/common-functions.php:723 inc/common-functions.php:741
+#: inc/common-functions.php:772 inc/common-functions.php:790
+#: inc/common-functions.php:808 inc/starter-content.php:235
+#: inc/starter-content.php:253 inc/starter-content.php:271
+msgid "Winner"
+msgstr "Câștigător"
+
+#: inc/theme-info-page.php:106
+msgid "View Demo &rarr;"
+msgstr "Vezi demonstrația &rarr;"
+
+#. Template Name of the theme
+msgid "Homepage (Without Hero Area)"
+msgstr "Prima pagină (fără zonă Hero)"
+
+#: inc/theme-info-page.php:60
+msgid "Theme Video Overview &rarr;"
+msgstr "Prezentare generală temă cu video &rarr;"
+
+#: inc/starter-content.php:157
+msgctxt "Theme starter content"
+msgid "About"
+msgstr "Despre"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-panel-config.php:32
+msgid "Homepage Hero Area"
+msgstr "Zonă Hero pe prima pagină"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-media-config.php:102
+msgid "Show Dark Overlay"
+msgstr "Arată suprapunerea întunecată"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-media-config.php:69
+msgid "Enable Hero Area on the Homepage"
+msgstr "Activează zona Hero pe prima pagină"
+
+#: inc/common-functions.php:761
+msgid "Awards"
+msgstr "Premii"
+
+#: inc/common-functions.php:623
+msgid "About Us (Dark)"
+msgstr "Despre noi (întunecat)"
+
+#: inc/common-functions.php:604 inc/common-functions.php:741
+#: inc/common-functions.php:808 inc/starter-content.php:271
+msgid "\"Best Short\""
+msgstr "„Cel mai bun scurtmetraj”"
+
+#: inc/common-functions.php:586 inc/common-functions.php:723
+#: inc/common-functions.php:790 inc/starter-content.php:253
+msgid "\"New Film Festival\""
+msgstr "„Festivalul de film nou”"
+
+#: inc/common-functions.php:471
+msgid "Fullscreen Hero Area"
+msgstr "Zonă Hero pe ecran întreg"
+
+#: inc/common-functions.php:443
+msgid "Background video"
+msgstr "Video pentru fundal"
+
+#: inc/theme-info-page.php:147
+msgid "Install Recommended Plugins &rarr;"
+msgstr "Instalează modulele recomandate &rarr;"
+
+#: inc/theme-info-page.php:143
+msgid "Please install and activate recommended plugins to enable this feature."
+msgstr "Pentru a activa această funcționalitate, te rog instalează și activează modulele recomandate."
+
+#: inc/customizer/configs/header/class-inspiro-header-area-config.php:185
+msgid "Show Seach Icon"
+msgstr "Arată iconul de căutare"
+
+#: inc/theme-info-page.php:118 inc/theme-info-page.php:125
+#: inc/theme-info-page.php:137
+msgid "Import the Demo Content"
+msgstr "Importă conținutul demonstrației"
+
+#: inc/theme-info-page.php:238
+msgid "Elementor Integration"
+msgstr "Integrare Elementor"
+
+#: inc/customizer/class-inspiro-customizer.php:260
+msgid "View Inspiro Premium"
+msgstr "Vezi Inspiro Premium"
+
+#: inc/admin-notice.php:92 inc/customizer/class-inspiro-customizer.php:258
+#: inc/theme-info-page.php:313
+msgid "Upgrade to Inspiro Premium"
+msgstr "Actualizează la Inspiro Premium"
+
+#. translators: %1$s: Documentation URL. %2$s: Link title.
+#: inc/classes/class-inspiro-theme-upgrader.php:157
+msgid "Note:"
+msgstr "Notă:"
+
+#: inc/theme-info-page.php:305
+msgid "Open support forum in new tab"
+msgstr "Deschide forumul pentru suport într-o filă nouă"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:33
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/classes/class-inspiro-theme-upgrader.php:190
+msgid "Site URL"
+msgstr "URL site"
+
+#. translators: %1$s: Documentation URL. %2$s: Link title.
+#: inc/classes/class-inspiro-theme-upgrader.php:157
+msgid "Open documentation link in new tab"
+msgstr "Deschide legătura la documentație într-o filă nouă"
+
+#: inc/classes/class-inspiro-theme-upgrader.php:190
+msgid "Blogname"
+msgstr "Nume blog"
+
+#: inc/classes/class-inspiro-theme-upgrader.php:188
+msgid "Migrate settings for following blog site:"
+msgstr "Migrează setările pentru următorul site (blog):"
+
+#: inc/classes/class-inspiro-theme-upgrader.php:119
+msgid "Migrate Customizer Settings to Inspiro Premium"
+msgstr "Migrează setările pentru Personalizator la Inspiro Premium"
+
+#: inc/common-functions.php:417
+msgctxt "Block pattern category"
+msgid "Inspiro"
+msgstr "Inspiro"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:33
+msgid "Body"
+msgstr "Corp"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-h6-config.php:32
+msgid "Heading 6"
+msgstr "Subtitlu 6"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-h1-config.php:32
+msgid "Heading 1"
+msgstr "Subtitlu 1"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-panel-config.php:33
+msgid "Typography"
+msgstr "Tipografice"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:85
+msgid "Header Button"
+msgstr "Buton antet"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:33
+msgid "Menu"
+msgstr "Meniu"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:102
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:94
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:104
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:104
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:111
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:102
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:111
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:104
+msgid "Variants"
+msgstr "Variante"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:92
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:84
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:94
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:94
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:101
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:92
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:101
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:94
+msgid "Font Family"
+msgstr "Familie de fonturi"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:33
+msgid "Headings"
+msgstr "Subtitluri"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-h3-config.php:32
+msgid "Heading 3"
+msgstr "Subtitlu 3"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:153
+#: inc/customizer/configs/typography/class-inspiro-typo-h1-config.php:122
+#: inc/customizer/configs/typography/class-inspiro-typo-h2-config.php:122
+#: inc/customizer/configs/typography/class-inspiro-typo-h3-config.php:122
+#: inc/customizer/configs/typography/class-inspiro-typo-h4-config.php:122
+#: inc/customizer/configs/typography/class-inspiro-typo-h5-config.php:122
+#: inc/customizer/configs/typography/class-inspiro-typo-h6-config.php:122
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:132
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:155
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:155
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:162
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:153
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:162
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:155
+msgid "Line Height"
+msgstr "Înălțime linie"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-h5-config.php:32
+msgid "Heading 5"
+msgstr "Subtitlu 5"
+
+#: inc/customizer/custom-controls/font-presets/class-inspiro-customize-font-presets-control.php:35
+msgid "Presets"
+msgstr "Presetări"
+
+#: inc/customizer/class-inspiro-customizer.php:436
+msgid "System Fonts"
+msgstr "Fonturi de sistem"
+
+#: inc/classes/class-inspiro-font-family-manager.php:251
+#: inc/customizer/class-inspiro-customizer.php:416
+#: inc/customizer/custom-controls/font-variant/class-inspiro-customize-font-variant-control.php:88
+#: inc/customizer/custom-controls/typography/class-inspiro-customize-typography-control.php:104
+msgid "Inherit"
+msgstr "Moștenit"
+
+#: inc/classes/class-inspiro-font-family-manager.php:235
+msgid "900 Italic"
+msgstr "Cursiv 900"
+
+#: inc/classes/class-inspiro-font-family-manager.php:233
+msgid "800 Italic"
+msgstr "Cursiv 800"
+
+#: inc/classes/class-inspiro-font-family-manager.php:231
+msgid "700 Italic"
+msgstr "Cursiv 700"
+
+#: inc/classes/class-inspiro-font-family-manager.php:229
+msgid "600 Italic"
+msgstr "Cursiv 600"
+
+#: inc/classes/class-inspiro-font-family-manager.php:227
+msgid "500 Italic"
+msgstr "Cursiv 500"
+
+#: inc/classes/class-inspiro-font-family-manager.php:225
+msgid "400 Italic"
+msgstr "Cursiv 400"
+
+#: inc/classes/class-inspiro-font-family-manager.php:224
+msgid "Normal 400"
+msgstr "400 normal"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:145
+#: inc/customizer/configs/typography/class-inspiro-typo-h1-config.php:103
+#: inc/customizer/configs/typography/class-inspiro-typo-h2-config.php:103
+#: inc/customizer/configs/typography/class-inspiro-typo-h3-config.php:103
+#: inc/customizer/configs/typography/class-inspiro-typo-h4-config.php:103
+#: inc/customizer/configs/typography/class-inspiro-typo-h5-config.php:103
+#: inc/customizer/configs/typography/class-inspiro-typo-h6-config.php:103
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:124
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:147
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:147
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:154
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:145
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:154
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:147
+msgid "Lowercase"
+msgstr "Minuscule"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:144
+#: inc/customizer/configs/typography/class-inspiro-typo-h1-config.php:102
+#: inc/customizer/configs/typography/class-inspiro-typo-h2-config.php:102
+#: inc/customizer/configs/typography/class-inspiro-typo-h3-config.php:102
+#: inc/customizer/configs/typography/class-inspiro-typo-h4-config.php:102
+#: inc/customizer/configs/typography/class-inspiro-typo-h5-config.php:102
+#: inc/customizer/configs/typography/class-inspiro-typo-h6-config.php:102
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:123
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:146
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:146
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:153
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:144
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:153
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:146
+msgid "Uppercase"
+msgstr "Majuscule"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:142
+#: inc/customizer/configs/typography/class-inspiro-typo-h1-config.php:100
+#: inc/customizer/configs/typography/class-inspiro-typo-h2-config.php:100
+#: inc/customizer/configs/typography/class-inspiro-typo-h3-config.php:100
+#: inc/customizer/configs/typography/class-inspiro-typo-h4-config.php:100
+#: inc/customizer/configs/typography/class-inspiro-typo-h5-config.php:100
+#: inc/customizer/configs/typography/class-inspiro-typo-h6-config.php:100
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:121
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:144
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:144
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:151
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:142
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:151
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:144
+msgctxt "text transform"
+msgid "None"
+msgstr "Niciunul"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:141
+#: inc/customizer/configs/typography/class-inspiro-typo-h1-config.php:99
+#: inc/customizer/configs/typography/class-inspiro-typo-h2-config.php:99
+#: inc/customizer/configs/typography/class-inspiro-typo-h3-config.php:99
+#: inc/customizer/configs/typography/class-inspiro-typo-h4-config.php:99
+#: inc/customizer/configs/typography/class-inspiro-typo-h5-config.php:99
+#: inc/customizer/configs/typography/class-inspiro-typo-h6-config.php:99
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:120
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:143
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:143
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:150
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:141
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:150
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:143
+msgctxt "text transform"
+msgid "Inherit"
+msgstr "Moștenit"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:137
+#: inc/customizer/configs/typography/class-inspiro-typo-h1-config.php:95
+#: inc/customizer/configs/typography/class-inspiro-typo-h2-config.php:95
+#: inc/customizer/configs/typography/class-inspiro-typo-h3-config.php:95
+#: inc/customizer/configs/typography/class-inspiro-typo-h4-config.php:95
+#: inc/customizer/configs/typography/class-inspiro-typo-h5-config.php:95
+#: inc/customizer/configs/typography/class-inspiro-typo-h6-config.php:95
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:116
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:139
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:139
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:146
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:137
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:146
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:139
+msgid "Text Transform"
+msgstr "Transformare text"
+
+#: inc/classes/class-inspiro-font-family-manager.php:223
+msgid "300 Italic"
+msgstr "Cursiv 300"
+
+#: inc/classes/class-inspiro-font-family-manager.php:222
+msgid "Light 300"
+msgstr "300 subțire"
+
+#: inc/classes/class-inspiro-font-family-manager.php:221
+msgid "200 Italic"
+msgstr "Cursiv 200"
+
+#: inc/classes/class-inspiro-font-family-manager.php:220
+msgid "Extra-Light 200"
+msgstr "200 foarte subțire"
+
+#: inc/classes/class-inspiro-font-family-manager.php:219
+msgid "100 Italic"
+msgstr "Cursiv 100"
+
+#: inc/classes/class-inspiro-font-family-manager.php:218
+msgid "Thin 100"
+msgstr "100 subțire"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:124
+#: inc/customizer/configs/typography/class-inspiro-typo-h1-config.php:76
+#: inc/customizer/configs/typography/class-inspiro-typo-h2-config.php:76
+#: inc/customizer/configs/typography/class-inspiro-typo-h3-config.php:76
+#: inc/customizer/configs/typography/class-inspiro-typo-h4-config.php:76
+#: inc/customizer/configs/typography/class-inspiro-typo-h5-config.php:76
+#: inc/customizer/configs/typography/class-inspiro-typo-h6-config.php:76
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:103
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:126
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:126
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:133
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:124
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:133
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:126
+msgid "Font Weight"
+msgstr "Grosime font"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:112
+#: inc/customizer/configs/typography/class-inspiro-typo-h1-config.php:53
+#: inc/customizer/configs/typography/class-inspiro-typo-h2-config.php:53
+#: inc/customizer/configs/typography/class-inspiro-typo-h3-config.php:53
+#: inc/customizer/configs/typography/class-inspiro-typo-h4-config.php:53
+#: inc/customizer/configs/typography/class-inspiro-typo-h5-config.php:53
+#: inc/customizer/configs/typography/class-inspiro-typo-h6-config.php:53
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:114
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:114
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:121
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:112
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:121
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:114
+msgid "Font Size (px)"
+msgstr "Dimensiune font (px)"
+
+#: inc/customizer/custom-controls/font-presets/class-inspiro-customize-font-presets-control.php:41
+msgid "View Presets"
+msgstr "Vezi presetări"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-h4-config.php:32
+msgid "Heading 4"
+msgstr "Subtitlu 4"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-h2-config.php:32
+msgid "Heading 2"
+msgstr "Subtitlu 2"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:85
+msgid "Mobile Menu"
+msgstr "Meniu pentru mobil"
+
+#: inc/classes/class-inspiro-font-family-manager.php:226
+msgid "Medium 500"
+msgstr "500 mediu"
+
+#: inc/classes/class-inspiro-font-family-manager.php:228
+msgid "Semi-Bold 600"
+msgstr "600 semi-aldin"
+
+#: inc/classes/class-inspiro-font-family-manager.php:230
+msgid "Bold 700"
+msgstr "700 aldin"
+
+#: inc/classes/class-inspiro-font-family-manager.php:232
+msgid "Extra-Bold 800"
+msgstr "800 ultra-aldin"
+
+#: inc/classes/class-inspiro-font-family-manager.php:234
+msgid "Ultra-Bold 900"
+msgstr "900 ultra-aldin"
+
+#: inc/customizer/class-inspiro-customizer.php:435
+msgid "Default System Font"
+msgstr "Sistem de fonturi implicit"
+
+#: inc/common-functions.php:433
+msgid "Homepage"
+msgstr "Prima pagină"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:103
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:95
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:105
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:105
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:112
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:103
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:112
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:105
+msgid "Only selected Font Variants will be loaded from Google Fonts."
+msgstr "Doar variantele de font selectate vor fi încărcate din Google Fonts."
+
+#: inc/common-functions.php:481
+msgid "Full-width section"
+msgstr "Secțiune pe toată lățimea"
+
+#: inc/customizer/custom-controls/font-presets/class-inspiro-customize-font-presets-control.php:36
+msgid "Choosing a preset will override all the font settings."
+msgstr "Alegerea unei presetări va contramanda toate setările pentru font."
+
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:33
+msgid "Homepage Hero Header"
+msgstr "Antet Hero pe prima pagină"
+
+#: inc/common-functions.php:434 inc/common-functions.php:482
+msgctxt "Block pattern description"
+msgid "A call to action with a beautiful two-column gallery below."
+msgstr "Un îndemn la acțiune într-o galerie frumoasă cu două coloane."
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:143
+#: inc/customizer/configs/typography/class-inspiro-typo-h1-config.php:101
+#: inc/customizer/configs/typography/class-inspiro-typo-h2-config.php:101
+#: inc/customizer/configs/typography/class-inspiro-typo-h3-config.php:101
+#: inc/customizer/configs/typography/class-inspiro-typo-h4-config.php:101
+#: inc/customizer/configs/typography/class-inspiro-typo-h5-config.php:101
+#: inc/customizer/configs/typography/class-inspiro-typo-h6-config.php:101
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:122
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:145
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:145
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:152
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:143
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:152
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:145
+msgid "Capitalize"
+msgstr "Scrie cu majuscule"
+
+#: inc/custom-header.php:60
+msgid "Forest"
+msgstr "Pădure"
+
+#: inc/starter-content.php:50
+msgctxt "Theme starter content"
+msgid "Beautiful portfolios for exceptional creatives"
+msgstr "Portofolii frumoase pentru oameni creativi excepționali"
+
+#. translators: %s: WordPress Version.
+#: inc/back-compat.php:42 inc/back-compat.php:61 inc/back-compat.php:86
+msgid "This theme requires WordPress 5.3 or newer. You are running version %s. Please upgrade."
+msgstr "Această temă necesită WordPress 5.3 sau o versiune mai nouă. Acum rulezi cu versiunea %s. Te rog actualizează."
+
+#. translators: %1$s: Comment date %2$s: Comment time
+#: inc/common-functions.php:313
+msgid "%1$s @ %2$s"
+msgstr "%1$s la %2$s"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-content-config.php:133
+msgid "Open link on new tab"
+msgstr "Deschide legătura într-o filă nouă"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-media-config.php:31
+msgid "Media"
+msgstr "Media"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-content-config.php:123
+msgid "Enter a Button URL:"
+msgstr "Introdu un URL pentru buton:"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-content-config.php:111
+msgid "Header Button Title"
+msgstr "Titlu pentru butonul din antet"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-content-config.php:112
+msgid "Enter a title for Header Button"
+msgstr "Introdu un titlu pentru butonul din antet"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-content-config.php:122
+msgid "Header Button URL"
+msgstr "URL pentru butonul din antet"
+
+#: inc/customizer/configs/colors/class-inspiro-header-button-color-config.php:143
+msgid "Hero Button Text Color"
+msgstr "Culoare text pentru butonul hero"
+
+#: inc/customizer/configs/colors/class-inspiro-header-button-color-config.php:151
+msgid "Hero Button Text Color Hover"
+msgstr "Culoare text pentru butonul hero la trecerea peste"
+
+#: inc/customizer/configs/colors/class-inspiro-header-button-color-config.php:159
+msgid "Hero Button Background Color Hover"
+msgstr "Culoare de fundal pentru butonul hero la trecerea peste"
+
+#: inc/classes/class-inspiro-notice-review.php:91
+msgid "Hide this notice"
+msgstr "Ascunde această notificare"
+
+#: inc/classes/class-inspiro-notice-review.php:71
+msgid "inspiro"
+msgstr "inspiro"
+
+#: inc/classes/class-inspiro-notices.php:130
+msgid "Cheatin&#8217; huh?"
+msgstr "Trișezi, nu-i așa?"
+
+#: inc/classes/class-inspiro-notice-review.php:90
+msgid "Add a Rating for Inspiro"
+msgstr "Adaugă o evaluare pentru Inspiro"
+
+#: inc/admin-notice.php:91 inc/theme-info-page.php:102
+msgid "https://www.wpzoom.com/themes/inspiro/"
+msgstr "https://www.wpzoom.com/themes/inspiro/"
+
+#. translators: %s: Inspiro theme
+#: inc/admin-notice.php:88
+msgid "Get Started with %s"
+msgstr "Începe cu %s"
+
+#: inc/admin-notice.php:75
+msgid "Dismiss this notice."
+msgstr "Înlătură această notificare."
+
+#: inc/theme-info-page.php:304
+msgid "Support"
+msgstr "Suport"
+
+#: inc/theme-info-page.php:299
+msgid "Typography Options"
+msgstr "Opțiuni tipografice"
+
+#: inc/theme-info-page.php:294
+msgid "600+ Google Fonts"
+msgstr "Peste 600 de fonturi Google"
+
+#: inc/theme-info-page.php:289
+msgid "Theme Options"
+msgstr "Opțiuni temă"
+
+#: inc/theme-info-page.php:269
+msgid "Video Backgrounds"
+msgstr "Fundaluri video"
+
+#: inc/theme-info-page.php:264
+msgid "Predefined Style Kits"
+msgstr "Kituri de stil predefinite"
+
+#: inc/theme-info-page.php:233
+msgid "Advanced WooCommerce Integration"
+msgstr "Integrare Woocommerce avansată"
+
+#: inc/theme-info-page.php:218
+msgid "Responsive Layout"
+msgstr "Aranjament responsiv"
+
+#: inc/theme-info-page.php:96 inc/theme-info-page.php:213
+msgid "Inspiro Premium"
+msgstr "Inspiro Premium"
+
+#: inc/theme-info-page.php:212
+msgid "Inspiro Lite"
+msgstr "Inspiro Lite"
+
+#: inc/theme-info-page.php:211
+msgid "Features"
+msgstr "Funcționalități"
+
+#: inc/theme-info-page.php:105
+msgid "https://demo.wpzoom.com/?theme=inspiro"
+msgstr "https://demo.wpzoom.com/?theme=inspiro"
+
+#: inc/theme-info-page.php:223
+msgid "Live Customizer"
+msgstr "Personalizator live"
+
+#: inc/theme-info-page.php:243
+msgid "Demo Content Importer"
+msgstr "Importator conținut demonstrativ"
+
+#: inc/theme-info-page.php:306
+msgid "Fast & Friendly Email Support"
+msgstr "Suport rapid și prietenos prin email"
+
+#: inc/admin-notice.php:50 inc/classes/class-inspiro-notices.php:126
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Acțiunea a eșuat. Te rog reîmprospătează pagina și reîncearcă."
+
+#: inc/admin-notice.php:54
+msgid "You do not have the necessary permission to perform this action."
+msgstr "Nu ai permisiunea necesară pentru a efectua această acțiune."
+
+#: inc/theme-info-page.php:206
+msgid "Inspiro Lite vs. Inspiro Premium"
+msgstr "Inspiro Lite versus Inspiro Premium"
+
+#: inc/theme-info-page.php:254
+msgid "Portfolio Integration"
+msgstr "Integrare portofoliu"
+
+#: inc/theme-info-page.php:274
+msgid "Video Headers in Pages & Posts"
+msgstr "Anteturi video în pagini și articole"
+
+#: inc/theme-info-page.php:279
+msgid "Video & Image Lightbox for Portfolio Posts"
+msgstr "Video și imagine Lightbox pentru articole portofoliu"
+
+#: inc/theme-info-page.php:249
+msgid "9 Demos"
+msgstr "Nouă demonstrații"
+
+#: inc/theme-info-page.php:284
+msgid "Multiple Posts Layouts"
+msgstr "Multiple aranjamente pentru articole"
+
+#: inc/theme-info-page.php:58
+msgid "Get Inspiro Premium &rarr;"
+msgstr "Cumpără Inspiro Premium &rarr;"
+
+#: inc/theme-info-page.php:42
+msgid "Theme Screenshot"
+msgstr "Captură ecran temă"
+
+#: inc/theme-info-page.php:22
+msgid "About Inspiro"
+msgstr "Despre Inspiro"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/classes/class-tgm-plugin-activation.php:3534
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalez modulul %1$s (%2$d/%3$d)"
+
+#: inc/classes/class-tgm-plugin-activation.php:3532
+msgid "All installations have been completed."
+msgstr "Toate instalările au fost finalizate."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/classes/class-tgm-plugin-activation.php:3526
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalez și activez modulul %1$s (%2$d/%3$d)"
+
+#: inc/classes/class-tgm-plugin-activation.php:2771
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Nu a fost selectat niciun modul pentru a fi actualizat. N-am preluat nicio acțiune."
+
+#: inc/classes/class-tgm-plugin-activation.php:2769
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Nu a fost selectat niciun modul pentru a fi instalat. N-am preluat nicio acțiune."
+
+#: inc/classes/class-tgm-plugin-activation.php:2730
+msgid "Install"
+msgstr "Instalează"
+
+#: inc/classes/class-tgm-plugin-activation.php:2698
+msgid "Upgrade message from the plugin author:"
+msgstr "Mesaj de actualizare de la autorul modulului:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/classes/class-tgm-plugin-activation.php:2628
+msgid "Activate %2$s"
+msgstr "Activează %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/classes/class-tgm-plugin-activation.php:2622
+msgid "Update %2$s"
+msgstr "Actualizează %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/classes/class-tgm-plugin-activation.php:2617
+msgid "Install %2$s"
+msgstr "Instalează %2$s"
+
+#: inc/classes/class-tgm-plugin-activation.php:2568
+msgid "Status"
+msgstr "Stare"
+
+#: inc/classes/class-tgm-plugin-activation.php:2567
+msgid "Version"
+msgstr "Versiune"
+
+#: inc/classes/class-tgm-plugin-activation.php:2563
+msgid "Type"
+msgstr "Tip"
+
+#: inc/classes/class-tgm-plugin-activation.php:2562
+msgid "Source"
+msgstr "Sursă"
+
+#: inc/classes/class-tgm-plugin-activation.php:2561
+msgid "Plugin"
+msgstr "Modul"
+
+#: inc/classes/class-tgm-plugin-activation.php:2547
+msgid "No plugins to install, update or activate."
+msgstr "Niciun modul de instalat, actualizat sau activat."
+
+#: inc/classes/class-tgm-plugin-activation.php:2315
+msgid "Pre-Packaged"
+msgstr "Pre-împachetat"
+
+#: inc/classes/class-tgm-plugin-activation.php:2312
+msgid "External Source"
+msgstr "Sursă externă"
+
+#: inc/classes/class-tgm-plugin-activation.php:2309
+msgid "WordPress Repository"
+msgstr "Depozitar WordPress"
+
+#: inc/classes/class-tgm-plugin-activation.php:2293
+msgid "Recommended"
+msgstr "Recomandat"
+
+#: inc/classes/class-tgm-plugin-activation.php:2290
+msgid "Required"
+msgstr "Necesar"
+
+#. translators: %s: version number
+#: inc/classes/class-tgm-plugin-activation.php:1999
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/classes/class-tgm-plugin-activation.php:1133
+#: inc/classes/class-tgm-plugin-activation.php:2959
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "și"
+
+#: inc/classes/class-tgm-plugin-activation.php:945
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Pachetul modulului de la distanță are mai multe fișiere, dar acestea nu sunt împachetate într-un dosar."
+
+#: inc/classes/class-tgm-plugin-activation.php:935
+#: inc/classes/class-tgm-plugin-activation.php:945
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Te rog contactează furnizorul modulului și cere-i să împacheteze modulul în conformitate cu specificațiile WordPress."
+
+#: inc/classes/class-tgm-plugin-activation.php:935
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Pachetul modulului de la distanță nu conține un dosar cu descriptorul dorit și redenumirea nu a funcționat."
+
+#: inc/classes/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Există unul sau mai multe module necesare sau recomandate de instalat, actualizat sau activat."
+
+#: inc/classes/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Respinge această notificare"
+
+#. translators: 1: plugin name(s).
+#: inc/classes/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Această temă are nevoie de următorul modul: %1$s."
+msgstr[1] "Această temă are nevoie de următoarele module: %1$s."
+msgstr[2] "Această temă are nevoie de următoarele module: %1$s."
+
+#: inc/classes/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Ceva nu a mers bine cu API-ul modulului."
+
+#. translators: %s: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Actualizez modulul: %s"
+
+#. translators: %s: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalez modulul: %s"
+
+#: inc/classes/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalează module"
+
+#: inc/classes/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalează modulele necesare"
+
+#: index.php:27
+msgid "Latest Posts"
+msgstr "Ultimele articole"
+
+#: inc/theme-info-page.php:87 inc/theme-info-page.php:305
+msgid "Support Forum"
+msgstr "Forum pentru suport"
+
+#: inc/theme-info-page.php:77 inc/theme-info-page.php:84
+msgid "Theme Documentation"
+msgstr "Documentație temă"
+
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:3523
+#: inc/classes/class-tgm-plugin-activation.php:3531
+msgid "Hide Details"
+msgstr "Ascunde detalii"
+
+#: inc/classes/class-tgm-plugin-activation.php:3524
+msgid "All installations and activations have been completed."
+msgstr "Toate instalările și activările au fost finalizate."
+
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:3523
+#: inc/classes/class-tgm-plugin-activation.php:3531
+msgid "Show Details"
+msgstr "Arată detalii"
+
+#: inc/classes/class-tgm-plugin-activation.php:3521
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Procesul de instalare și activare începe. Acest proces poate dura ceva timp pe unele servere de găzduire, așa că te rog să ai răbdare."
+
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:3517
+msgid "The installation of %1$s failed."
+msgstr "Instalarea %1$s a eșuat."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/classes/class-tgm-plugin-activation.php:3515
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "A apărut o eroare în timpul instalării %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/classes/class-tgm-plugin-activation.php:3512
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizez modulul %1$s (%2$d/%3$d)"
+
+#: inc/classes/class-tgm-plugin-activation.php:3169
+msgid "Plugin activation failed."
+msgstr "Activarea modulului a eșuat."
+
+#: inc/classes/class-tgm-plugin-activation.php:2945
+msgid "No plugins are available to be activated at this time."
+msgstr "Momentan nu este disponibil niciun modul pentru a fi activat."
+
+#: inc/classes/class-tgm-plugin-activation.php:2919
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Nu a fost selectat niciun modul pentru a fi activat. N-am preluat nicio acțiune."
+
+#: inc/classes/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be updated at this time."
+msgstr "Momentan nu este disponibil niciun modul pentru a fi actualizat."
+
+#: inc/classes/class-tgm-plugin-activation.php:2812
+msgid "No plugins are available to be installed at this time."
+msgstr "Momentan nu este disponibil niciun modul pentru a fi instalat."
+
+#: inc/classes/class-tgm-plugin-activation.php:2524
+msgid "Available version:"
+msgstr "Versiune disponibilă:"
+
+#: inc/classes/class-tgm-plugin-activation.php:2512
+msgid "Minimum required version:"
+msgstr "Versiune minimă necesară:"
+
+#: inc/classes/class-tgm-plugin-activation.php:2504
+msgid "Installed version:"
+msgstr "Versiune instalată:"
+
+#: inc/classes/class-tgm-plugin-activation.php:2496
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "necunoscută"
+
+#. translators: 1: number of plugins.
+#: inc/classes/class-tgm-plugin-activation.php:2415
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Pentru activare <span class=\"count\">(%s)</span>"
+msgstr[1] "Pentru activare <span class=\"count\">(%s)</span>"
+msgstr[2] "Pentru activare <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/classes/class-tgm-plugin-activation.php:2411
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualizare disponibilă <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualizare disponibilă <span class=\"count\">(%s)</span>"
+msgstr[2] "Actualizare disponibilă <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/classes/class-tgm-plugin-activation.php:2407
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Pentru instalare <span class=\"count\">(%s)</span>"
+msgstr[1] "Pentru instalare <span class=\"count\">(%s)</span>"
+msgstr[2] "Pentru instalare <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/classes/class-tgm-plugin-activation.php:2403
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Toate <span class=\"count\">(%s)</span>"
+msgstr[1] "Toate <span class=\"count\">(%s)</span>"
+msgstr[2] "Toate <span class=\"count\">(%s)</span>"
+
+#: inc/classes/class-tgm-plugin-activation.php:2348
+msgid "Update recommended"
+msgstr "Actualizare recomandată"
+
+#: inc/classes/class-tgm-plugin-activation.php:2346
+msgid "Requires Update"
+msgstr "Necesită actualizare"
+
+#: inc/classes/class-tgm-plugin-activation.php:2344
+msgid "Required Update not Available"
+msgstr "Actualizarea cerută nu este disponibilă"
+
+#: inc/classes/class-tgm-plugin-activation.php:2338
+msgid "Active"
+msgstr "Active"
+
+#: inc/classes/class-tgm-plugin-activation.php:2336
+msgid "Installed But Not Activated"
+msgstr "Instalat, dar neactivat"
+
+#: inc/classes/class-tgm-plugin-activation.php:2332
+msgid "Not Installed"
+msgstr "Neinstalat"
+
+#. translators: 1: dashboard link.
+#: inc/classes/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Toate modulele au fost instalate și activate cu succes. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Modulul nu este activat. Pentru această temă, este necesară o versiune mai nouă a %s. Te rog actualizează modulul."
+
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nu am preluat nicio acțiune. Modulul %1$s era deja activ."
+
+#: inc/classes/class-tgm-plugin-activation.php:388
+#: inc/classes/class-tgm-plugin-activation.php:2963
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Modulul următor a fost activat cu succes:"
+msgstr[1] "Modulule următoare au fost activate cu succes:"
+msgstr[2] "Modulule următoare au fost activate cu succes:"
+
+#: inc/classes/class-tgm-plugin-activation.php:386
+#: inc/classes/class-tgm-plugin-activation.php:826
+#: inc/classes/class-tgm-plugin-activation.php:2547
+#: inc/classes/class-tgm-plugin-activation.php:3594
+msgid "Return to the Dashboard"
+msgstr "Înapoi la Panou control"
+
+#: inc/classes/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Înapoi la instalatorul modulelor necesare"
+
+#: inc/classes/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Încep actualizarea modulului"
+msgstr[1] "Încep actualizarea modulelor"
+msgstr[2] "Încep actualizarea modulelor"
+
+#: inc/classes/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Încep instalarea modulului"
+msgstr[1] "Încep instalarea modulelor"
+msgstr[2] "Încep instalarea modulelor"
+
+#. translators: 1: plugin name(s).
+#: inc/classes/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Următorul modul recomandat este acum inactiv: %1$s."
+msgstr[1] "Următoarele module recomandate sunt acum inactive: %1$s."
+msgstr[2] "Următoarele module recomandate sunt acum inactive: %1$s."
+
+#: inc/classes/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Acest modul trebuie actualizat pentru a fi compatibil cu tema ta."
+
+#. translators: 1: install status, 2: update status
+#: inc/classes/class-tgm-plugin-activation.php:2357
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/theme-info-page.php:63
+msgid "Inspiro Showcase"
+msgstr "Exemplificare Inspiro"
+
+#: inc/classes/class-tgm-plugin-activation.php:2736
+msgid "Update"
+msgstr "Actualizează"
+
+#: inc/classes/class-tgm-plugin-activation.php:2739
+msgid "Activate"
+msgstr "Activează"
+
+#: inc/theme-info-page.php:228
+msgid "Fullscreen Slideshow on Homepage"
+msgstr "Carusel ecran întreg pe prima pagină"
+
+#: inc/theme-info-page.php:259
+msgid "Video Features"
+msgstr "Funcționalități video"
+
+#: inc/classes/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Te rog contactează administratorul acestui site pentru ajutor."
+
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:3523
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s a fost instalat și activat cu succes."
+
+#: inc/classes/class-tgm-plugin-activation.php:3529
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Procesul de instalare a început. Acest proces poate dura ceva timp pe unele servere de găzduire, așa că te rog să ai răbdare."
+
+#: inc/classes/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Încep activarea modulului"
+msgstr[1] "Încep activarea modulelor"
+msgstr[2] "Încep activarea modulelor"
+
+#: inc/theme-info-page.php:103
+msgid "Upgrade to Inspiro Premium &rarr;"
+msgstr "Actualizează la Inspiro Premium &rarr;"
+
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:3531
+msgid "%1$s installed successfully."
+msgstr "Am instalat cu succes %1$s."
+
+#: inc/theme-info-page.php:21 inc/theme-info-page.php:48
+msgid "Welcome to Inspiro Lite"
+msgstr "Bine ai venit la Inspiro Lite"
+
+#: inc/classes/class-tgm-plugin-activation.php:387
+#: inc/classes/class-tgm-plugin-activation.php:3170
+msgid "Plugin activated successfully."
+msgstr "Am activat cu succes modulul."
+
+#. translators: 1: plugin name(s).
+#: inc/classes/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Această temă recomandă următorul modul: %1$s."
+msgstr[1] "Această temă recomandă următoarele module: %1$s."
+msgstr[2] "Această temă recomandă următoarele module: %1$s."
+
+#: inc/classes/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Actualizarea este necesară"
+
+#. translators: 1: plugin name(s).
+#: inc/classes/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Este disponibilă o actualizare pentru: %1$s."
+msgstr[1] "Sunt disponibile actualizări pentru următoarele module: %1$s."
+msgstr[2] "Sunt disponibile actualizări pentru următoarele module: %1$s."
+
+#. translators: %1$s: Inspiro theme %2$s: anchor tag open %3$s: anchor tag
+#. close
+#: inc/admin-notice.php:81
+msgid "Thank you for using %1$s! To get started please make sure you visit our %2$swelcome page%3$s."
+msgstr "Îți mulțumim că folosești %1$s! Ca să începi, îți recomandăm să mergi la %2$spagina noastră de bun venit%3$s."
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Sari la conținut"
+
+#: inc/custom-header.php:179
+msgid "Pause background video"
+msgstr "Oprește videoul de fundal"
+
+#: inc/custom-header.php:178
+msgid "Play background video"
+msgstr "Rulează videoul de fundal"
+
+#: inc/custom-header.php:55
+msgid "Default Header Image"
+msgstr "Imagine antet implicită"
+
+#: inc/starter-content.php:290
+msgctxt "Theme starter content"
+msgid "Aerial Land"
+msgstr "Teren aerian"
+
+#. translators: %s: Post title.
+#: inc/template-tags.php:226
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Editează<span class=\"screen-reader-text\"> „%s”</span>"
+
+#: inc/template-tags.php:201
+msgid "Written by"
+msgstr "Scris de"
+
+#: inc/template-tags.php:199
+msgid "Post author"
+msgstr "Autor articol"
+
+#: inc/customizer/configs/blog-post/class-inspiro-blog-post-panel-config.php:33
+msgid "Blog Post Options"
+msgstr "Setări articole de blog"
+
+#: inc/customizer/configs/theme-layout/class-inspiro-theme-layout-config.php:72
+msgid "Single Post Layout"
+msgstr "Aranjament articol singular"
+
+#: inc/customizer-functions.php:17
+#: inc/customizer/configs/theme-layout/class-inspiro-theme-layout-config.php:64
+#: inc/customizer/configs/theme-layout/class-inspiro-theme-layout-config.php:77
+msgid "Sidebar on the right"
+msgstr "Bară laterală în dreapta"
+
+#: inc/customizer-functions.php:16
+#: inc/customizer/configs/theme-layout/class-inspiro-theme-layout-config.php:63
+#: inc/customizer/configs/theme-layout/class-inspiro-theme-layout-config.php:76
+msgid "Full width"
+msgstr "Lățime completă"
+
+#: inc/customizer/configs/theme-layout/class-inspiro-theme-layout-config.php:59
+msgid "Blog Layout"
+msgstr "Aranjament blog"
+
+#: inc/customizer/configs/theme-layout/class-inspiro-theme-layout-config.php:31
+msgid "Theme Layout"
+msgstr "Aranjament temă"
+
+#: inc/customizer/configs/footer/class-inspiro-footer-widget-areas-config.php:78
+msgid "Four Columns"
+msgstr "Patru coloane"
+
+#: inc/customizer/configs/footer/class-inspiro-footer-widget-areas-config.php:74
+msgid "Three Columns"
+msgstr "Trei coloane"
+
+#: inc/customizer/configs/footer/class-inspiro-footer-widget-areas-config.php:70
+msgid "Two Columns"
+msgstr "Două coloane"
+
+#: inc/customizer/configs/footer/class-inspiro-footer-widget-areas-config.php:66
+msgid "One Column"
+msgstr "O coloană"
+
+#: inc/customizer/configs/footer/class-inspiro-footer-widget-areas-config.php:62
+msgid "Don't display Widgets"
+msgstr "Nu afișa piese"
+
+#: inc/customizer/configs/colors/class-inspiro-color-scheme-config.php:54
+msgid "Dark"
+msgstr "Întunecată"
+
+#: inc/customizer/configs/colors/class-inspiro-color-scheme-config.php:55
+msgid "Custom"
+msgstr "Personalizat"
+
+#: inc/common-functions.php:323
+msgid "Reply"
+msgstr "Răspunde"
+
+#: inc/common-functions.php:130
+msgid "Footer 4"
+msgstr "Subsol 4"
+
+#: inc/common-functions.php:118
+msgid "Footer 3"
+msgstr "Subsol 3"
+
+#: inc/common-functions.php:106
+msgid "Footer 2"
+msgstr "Subsol 2"
+
+#: inc/common-functions.php:94
+msgid "Footer 1"
+msgstr "Subsol 1"
+
+#: inc/common-functions.php:82
+#: inc/customizer/configs/colors/class-inspiro-header-button-color-config.php:33
+#: inc/customizer/configs/theme-layout/class-inspiro-theme-layout-config.php:32
+msgid "Blog Sidebar"
+msgstr "Bară laterală blog"
+
+#: inc/common-functions.php:70
+msgid "Sidebar"
+msgstr "Bară laterală"
+
+#: comments.php:114
+msgid "Post Comment"
+msgstr "Publică comentariul"
+
+#: comments.php:30 inc/template-tags.php:135
+msgid "One Comment"
+msgstr "Un comentariu"
+
+#: comments.php:30 inc/template-tags.php:134
+msgid "No Comments"
+msgstr "Niciun comentariu"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hopa! Acea pagină nu poate fi găsită."
+
+#: search.php:55
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nu s-a potrivit nimic cu termenii tăi de căutare. Te rog încearcă din nou cu alte cuvinte cheie."
+
+#. translators: Search query.
+#: search.php:22
+msgid "Search Results for: %s"
+msgstr "Rezultate căutare pentru: %s"
+
+#: sidebar.php:27
+msgctxt "menu"
+msgid "Mobile Menu"
+msgstr "Meniu pentru mobil"
+
+#: sidebar.php:20
+msgid "Toggle navigation"
+msgstr "Comută navigarea"
+
+#: template-parts/page/content-page.php:61
+#: template-parts/post/content-audio.php:56
+#: template-parts/post/content-gallery.php:43
+#: template-parts/post/content-image.php:35
+#: template-parts/post/content-video.php:56 template-parts/post/content.php:44
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: template-parts/footer/site-info.php:28
+msgid "Inspiro WordPress Theme by"
+msgstr "Temă WordPress Inspiro de"
+
+#. translators: %s: WordPress trademark
+#: template-parts/footer/site-info.php:23
+msgid "Powered by %s"
+msgstr "Propulsată de %s"
+
+#: template-parts/footer/site-info.php:20
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: inc/customizer/configs/colors/class-inspiro-header-button-color-config.php:196
+#: inc/customizer/configs/footer/class-inspiro-footer-widget-areas-config.php:40
+#: template-parts/footer/footer-widgets.php:26
+msgid "Footer"
+msgstr "Subsol"
+
+#: searchform.php:19
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Caută..."
+
+#: searchform.php:20
+msgctxt "submit button"
+msgid "Search"
+msgstr "Caută"
+
+#: single.php:42
+msgid "Previous Post"
+msgstr "Articolul anterior"
+
+#: inc/template-tags.php:192
+msgid "Tags"
+msgstr "Etichete"
+
+#. translators: %s: Post date.
+#: inc/template-tags.php:168 inc/template-tags.php:176
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">Publicat pe</span> %s"
+
+#: inc/common-functions.php:84
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Adaugă piese aici pentru a apărea în bara laterală în articole de blog și în pagini de arhivă."
+
+#: inc/template-tags.php:120
+msgid "by"
+msgstr "de"
+
+#: inc/template-tags.php:37
+msgid "on"
+msgstr "în"
+
+#: inc/template-tags.php:28
+msgid "in"
+msgstr "în"
+
+#: inc/customizer/configs/blog-post/class-inspiro-post-options-config.php:53
+msgid "None"
+msgstr "Niciunul"
+
+#: inc/customizer/configs/blog-post/class-inspiro-post-options-config.php:52
+msgid "Full Content"
+msgstr "Conținut întreg"
+
+#: inc/customizer/configs/blog-post/class-inspiro-post-options-config.php:51
+msgid "Excerpt"
+msgstr "Rezumat"
+
+#: inc/customizer/configs/blog-post/class-inspiro-post-options-config.php:47
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-content-config.php:31
+msgid "Content"
+msgstr "Conținut"
+
+#: inc/customizer/configs/colors/class-inspiro-color-scheme-config.php:51
+msgid "Color Scheme"
+msgstr "Schemă de culori"
+
+#: inc/customizer/configs/logo/class-inspiro-custom-logo-text-config.php:40
+msgid "Custom Logo Text"
+msgstr "Text logo personalizat"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-content-config.php:99
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:85
+msgid "Header Description"
+msgstr "Descriere antet"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-content-config.php:87
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:92
+msgid "Header Title"
+msgstr "Titlu antet"
+
+#: inc/classes/class-inspiro-after-setup-theme.php:110
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:92
+#: inc/starter-content.php:306
+msgid "Main Menu"
+msgstr "Meniu principal"
+
+#: inc/common-functions.php:351
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/common-functions.php:337
+msgid "Your comment is awaiting moderation."
+msgstr "Comentariul tău așteaptă moderare."
+
+#: inc/common-functions.php:329
+msgid "Edit"
+msgstr "Editează"
+
+#: comments.php:113
+msgid "Cancel"
+msgstr "Anulează"
+
+#: comments.php:112
+msgid "Leave a Comment"
+msgstr "Lasă un comentariu"
+
+#. translators: %1$s: admin url to profile %2$s: User identity %3$s: logout URL
+#: comments.php:111
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Log out?</a>"
+msgstr "Ești autentificat ca <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Dezautentificare?</a>"
+
+#: comments.php:107
+msgid "Message:"
+msgstr "Mesaj:"
+
+#: comments.php:94
+msgid "Email Address:"
+msgstr "Adresă email:"
+
+#: comments.php:88
+msgid "Name:"
+msgstr "Nume:"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Comentariile sunt închise."
+
+#: inc/common-functions.php:142
+msgid "Header Social Icons"
+msgstr "Iconuri sociale în antet"
+
+#: comments.php:51
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Comentarii mai noi <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:50
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Comentarii mai vechi"
+
+#: comments.php:30 inc/template-tags.php:136
+msgid "% Comments"
+msgstr "% comentarii"
+
+#: inc/common-functions.php:155
+msgid "Footer Instagram Bar"
+msgstr "Bară Instagram în subsol"
+
+#: searchform.php:17
+msgctxt "label"
+msgid "Search for:"
+msgstr "Caută după:"
+
+#: template-parts/header/search-form.php:15
+msgid "Search for:"
+msgstr "Caută după:"
+
+#: template-parts/header/header-image.php:24
+#: template-parts/header/header-image.php:25
+msgid "Scroll down to content"
+msgstr "Derulează în jos la conținut"
+
+#: template-parts/header/site-branding.php:29
+msgid "[Edit]"
+msgstr "[Editează]"
+
+#: template-parts/post/content-none.php:35
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Se pare că nu putem găsi ceea ce cauți. Probabil o căutare poate ajuta."
+
+#. translators: %s: Post editor URL.
+#: template-parts/post/content-none.php:29
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Ești gata să-ți publici primul articol? <a href=\"%s\">Începe de aici</a>."
+
+#: search.php:26 template-parts/post/content-none.php:18
+msgid "Nothing Found"
+msgstr "N-am găsit nimic"
+
+#: template-parts/navigation/navigation-primary.php:27
+msgctxt "menu"
+msgid "Top Horizontal Menu"
+msgstr "Meniu orizontal de sus"
+
+#: template-parts/header/search-form.php:16
+msgid "Type your keywords and hit Enter..."
+msgstr "Introdu cuvintele cheie și apasă Enter..."
+
+#: inc/common-functions.php:351
+msgid "(Edit)"
+msgstr "(Editează)"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-media-config.php:78
+msgid "External Header Video"
+msgstr "Video extern în antet"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-media-config.php:79
+msgid "Enter a YouTube or Vimeo URL:"
+msgstr "Introdu URL-ul YouTube sau Vimeo:"
+
+#. translators: Used between list items, there is a space after the comma.
+#: inc/template-tags.php:20 inc/template-tags.php:70
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:138
+msgid "Comments are Disabled"
+msgstr "Comentariile sunt închise"
+
+#. Template Name of the theme
+msgid "Homepage (Page Builder)"
+msgstr "Prima pagină (Constructor de pagini)"
+
+#: comments.php:99
+msgid "Website:"
+msgstr "Site web:"
+
+#: comments.php:103
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr "Salvează-mi numele, emailul și site-ul web în acest navigator pentru data viitoare când o să comentez."
+
+#. translators: %s: Post title.
+#: inc/common-functions.php:185 template-parts/post/content-audio.php:49
+#: template-parts/post/content-gallery.php:36
+#: template-parts/post/content-image.php:28
+#: template-parts/post/content-video.php:49 template-parts/post/content.php:37
+msgid "Read more<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Citește mai multe<span class=\"screen-reader-text\">„%s”</span>"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Se pare că nu am găsit nimic la această locație. Încerci o nouă căutare?"
+
+#: inc/customizer/configs/colors/class-inspiro-color-scheme-config.php:53
+msgid "Light"
+msgstr "Luminoasă"
+
+#: inc/common-functions.php:96 inc/common-functions.php:108
+#: inc/common-functions.php:120 inc/common-functions.php:132
+msgid "Add widgets here to appear in your footer."
+msgstr "Adaugă piese aici ca să apară în subsol."
+
+#: inc/customizer/configs/blog-post/class-inspiro-post-options-config.php:31
+msgid "Post Options"
+msgstr "Opțiuni pentru articole"
+
+#. Template Name of the theme
+msgid "Page Builder (Transparent Header, Without Title)"
+msgstr "Constructor de pagini (antet transparent, fără titlu)"
+
+#. Template Name of the theme
+msgid "Full-width (Page Builder)"
+msgstr "Lățime completă (constructor de pagini)"
+
+#. Template Name of the theme
+msgid "Page Builder (Without Page Title)"
+msgstr "Constructor de pagini (fără titlu pagină)"
+
+#: template-parts/navigation/navigation-primary.php:54
+msgid "Toggle sidebar &amp; navigation"
+msgstr "Comută la bara laterală și la navigare"
+
+#: inc/common-functions.php:72
+msgid "Main sidebar that is displayed on the right and can be toggled by clicking on the menu icon."
+msgstr "Bara laterală principală care este afișată în partea dreaptă și care poate fi comutată dând clic pe iconul meniu."
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-content-config.php:100
+msgid "Enter a site description which appears in the header on front-page"
+msgstr "Introdu descrierea site-ului care va apărea în antetul din pagina din față"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-content-config.php:88
+msgid "Enter a site title which appears in the header on front-page"
+msgstr "Introdu titlul site-ului care va apărea în antetul din pagina din față"
+
+#: inc/common-functions.php:157
+msgid "Widget area for \"Instagram widget by WPZOOM\"."
+msgstr "Zonă cu piese pentru „Instagram widget by WPZOOM”."
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.wpzoom.com/"
+msgstr "https://www.wpzoom.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "WPZOOM"
+msgstr "WPZOOM"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.wpzoom.com/free-wordpress-themes/inspiro-lite/"
+msgstr "https://www.wpzoom.com/free-wordpress-themes/inspiro-lite/"
